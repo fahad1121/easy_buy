@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2d50877-d10e-451a-9734-6d44c64b7a4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/(auth)/(login)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(auth)/(login)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34jHO4gzT4d6olgpf27KI14fFD3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/freshbrain/Documents/projects/task_app/next/app/(dashboard)/customers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/freshbrain/Documents/projects/task_app/next/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/(dashboard)/customers" />
+      <recent name="$PROJECT_DIR$/app/(dashboard)/orders" />
+      <recent name="$PROJECT_DIR$/app/(dashboard)/products/edit" />
+      <recent name="$PROJECT_DIR$/app/(dashboard)/products/add" />
+      <recent name="$PROJECT_DIR$/app/(auth)/reset-password" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/(auth)/login" />
+      <recent name="$PROJECT_DIR$/components/forms" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/(auth)" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.242" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d50877-d10e-451a-9734-6d44c64b7a4e" name="Changes" comment="" />
+      <created>1761720027315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761720027315</updated>
+      <workItem from="1761720030760" duration="593000" />
+      <workItem from="1761837165638" duration="4550000" />
+      <workItem from="1761870621092" duration="1340000" />
+      <workItem from="1761889340368" duration="5456000" />
+      <workItem from="1762086672870" duration="3122000" />
+      <workItem from="1762243204487" duration="2254000" />
+      <workItem from="1762318110087" duration="2784000" />
+      <workItem from="1763191223858" duration="606000" />
+      <workItem from="1763467693121" duration="1187000" />
+      <workItem from="1763550687007" duration="5934000" />
+      <workItem from="1763737562034" duration="689000" />
+      <workItem from="1763831884446" duration="3485000" />
+      <workItem from="1764001342495" duration="1253000" />
+      <workItem from="1764132992498" duration="7565000" />
+      <workItem from="1764250947334" duration="1321000" />
+      <workItem from="1764336840100" duration="2767000" />
+      <workItem from="1764767488514" duration="3421000" />
+      <workItem from="1764851349567" duration="4170000" />
+      <workItem from="1764937082516" duration="1856000" />
+      <workItem from="1765105479295" duration="598000" />
+      <workItem from="1765346588920" duration="12235000" />
+      <workItem from="1765427926653" duration="1208000" />
+      <workItem from="1765529715857" duration="6003000" />
+      <workItem from="1765627976293" duration="9610000" />
+      <workItem from="1765699431096" duration="7846000" />
+      <workItem from="1766591397643" duration="34000" />
+      <workItem from="1766591945421" duration="27000" />
+      <workItem from="1766592006445" duration="5019000" />
+      <workItem from="1766670939507" duration="2129000" />
+      <workItem from="1766732537604" duration="7741000" />
+      <workItem from="1766919507941" duration="4673000" />
+      <workItem from="1767858701189" duration="598000" />
+      <workItem from="1768034496865" duration="5868000" />
+      <workItem from="1768125025426" duration="8542000" />
+      <workItem from="1768466503460" duration="9996000" />
+      <workItem from="1768544835582" duration="1193000" />
+      <workItem from="1768804372129" duration="8000" />
+      <workItem from="1768926095929" duration="903000" />
+      <workItem from="1768985206641" duration="623000" />
+      <workItem from="1768994030720" duration="6288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
